@@ -1,0 +1,16 @@
+# Java
+*.class
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+nbproject/
+build/
+dist/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
