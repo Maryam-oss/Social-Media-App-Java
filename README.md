@@ -15,7 +15,13 @@ A fully functional social media application developed as a final project for Obj
 - JDBC & Database
 - MVC & DAO Design Patterns
 
-## How to Run
-1. Open the project in any Java IDE
-2. Configure database connection
-3. Run `Main.java`
+## 🔧 Database Configuration (Important)
+This project uses a database for storing users, posts, chats, and notifications.
+
+For **security reasons**, the database connection string is **not included** in this public repository.
+
+### To configure the database:
+1. Set up your own database (e.g., MongoDB Atlas / SQL as required)
+2. Create a database user
+3. Update the database connection string in the following file:
+
